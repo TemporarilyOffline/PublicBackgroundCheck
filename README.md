@@ -24,7 +24,7 @@ The second response I get is "We use a 3rd party service and we never receive th
 
 If you will give up your PII for $$$, why wouldn't you give up your employer's data for $$$?  Its a false test - if you really think about it, if you submit your PII for a background screening, then you are proving that you can't be trusted with secret data and you should be passed on for hiring.
 
-Every state maintains a criminal case search or judiciary case search.  The federal government maintains the Sex Offender Registry.  These databases are publicly available and easisly (enough) searchable.  Here we will work on a tool to search that data, but between the beginning of this project and a useful delivery, we'll have a list of URLs that can be used to obtain this data from all 50 states plus the sex offender registery.
+Every state maintains a criminal case search or judiciary case search.  The federal government maintains the Sex Offender Registry.  These databases are publicly available and easily (enough) searchable.  Here we will work on a tool to search that data, but between the beginning of this project and a useful delivery, we'll have a list of URLs that can be used to obtain this data from all 50 states plus the sex offender registery.
 
 Point your prospective employer here to get them started down the right path.
 
