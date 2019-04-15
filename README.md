@@ -4,7 +4,7 @@ Many employers today are asking for background checks, here is how to perform a 
 
 # Why
 
-The easiest reason to understand is that you own your information and you own the responsibility for the "Chain of Custody" of that information.  Once your PII (Personally Identifiable Information) leaves your hands, you will never regain control of it.  The more people/departments/vendors/corporations that have your information the less controll you have over it.  Starting over is possible, but not anywhere near as easy as maintaining control in the first place is.
+The easiest reason to understand is that you own your information and you own the responsibility for the "Chain of Custody" of that information.  Once your PII (Personally Identifiable Information) leaves your hands, you will never regain control of it.  The more people/departments/vendors/corporations that have your information the less control you have over it.  Starting over is possible, but not anywhere near as easy as maintaining control in the first place is.
 
 To dig a little deeper, take a look at this [list of data breaches](https://en.wikipedia.org/wiki/List_of_data_breaches).  Are there any companies on that list that you have worked for?  Done business with? Already has your PII?  The chances are, that if you are an American consumer, that you recognize quite a few names on that list.
 
